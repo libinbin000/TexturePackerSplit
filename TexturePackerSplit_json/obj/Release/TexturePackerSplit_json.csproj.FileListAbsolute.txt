@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\TexturePackerSplit_json.exe.config
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\TexturePackerSplit_json.exe
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\TexturePackerSplit_json.pdb
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\obj\Release\TexturePackerSplit_json.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\obj\Release\TexturePackerSplit_json.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\obj\Release\TexturePackerSplit_json.exe
+C:\Users\Administrator\source\repos\TexturePackerSplit_json\TexturePackerSplit_json\obj\Release\TexturePackerSplit_json.pdb
+F:\TexturePackerSplit_json\TexturePackerSplit_json.exe.config
+F:\TexturePackerSplit_json\TexturePackerSplit_json.exe
+F:\TexturePackerSplit_json\TexturePackerSplit_json.pdb
